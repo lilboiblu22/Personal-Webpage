@@ -144,12 +144,11 @@
       class="btn contact-details"
       ><i class="fab fa-discord"></i> Discord</a
     >
-    <a href="mailto:example@example.com" class="btn contact-details"
-      ><i class="fas fa-at"></i> Send a mail</a
+    <a href="mailto:enriquejimenez468@gmail.com" class="btn contact-details"
+      ><i class="fas fa-at"></i> Copy my email</a
     >
-    <a href="tel:555-555-5555" class="btn contact-details"
-      ><i class="fas fa-mobile-alt"></i> Call me</a
-    >
+    
+    
   </div>
 </section>
 
@@ -162,10 +161,8 @@
     This site will be updated every so often to reflect new projects!
   </p>
   <p>
-    &copy; Created for
-    <a href="https://www.freecodecamp.com/" target="_blank"
-      >freeCodeCamp <i class="fab fa-free-code-camp"></i
-    ></a>
+    &copy; 2021 Enrique Jimenez
+   
   </p>
 </footer>
     </html>
