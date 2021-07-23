@@ -44,7 +44,7 @@
 
 <section id="welcome-section" class="welcome-section">
   <h1>Hey I'm Enrique Jimenez</h1>
-  <p>A Web Developer and Indiana University Student</p>
+  <p>A Front-End Web Developer and Indiana University Student</p>
 </section>
 
 <!-- END WELCOME SECTION -->
@@ -103,58 +103,10 @@
         <span class="code">&#47;&gt;</span>
       </p>
     </a>
-    <a
-      href="https://codepen.io/freeCodeCamp/full/mVEJag"
-      target="_blank"
-      class="project project-tile"
-    >
-      <img
-        class="project-image"
-        src="https://cdn.freecodecamp.org/testable-projects-fcc/images/map.jpg"
-        alt="project"
-      />
-      <p class="project-title">
-        <span class="code">&lt;</span>
-        Map Data Across the Globe
-        <span class="code">&#47;&gt;</span>
-      </p>
-    </a>
-    <a
-      href="https://codepen.io/freeCodeCamp/full/wGqEga"
-      target="_blank"
-      class="project project-tile"
-    >
-      <img
-        class="project-image"
-        src="https://cdn.freecodecamp.org/testable-projects-fcc/images/wiki.png"
-        alt="project"
-      />
-      <p class="project-title">
-        <span class="code">&lt;</span>
-        Wikipedia Viewer
-        <span class="code">&#47;&gt;</span>
-      </p>
-    </a>
-    <a
-      href="https://codepen.io/freeCodeCamp/full/KzXQgy"
-      target="_blank"
-      class="project project-tile"
-    >
-      <img
-        class="project-image"
-        src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tic-tac-toe.png"
-        alt="project"
-      />
-      <p class="project-title">
-        <span class="code">&lt;</span>
-        Tic Tac Toe Game
-        <span class="code">&#47;&gt;</span>
-      </p>
-    </a>
-  </div>
+    
 
   <a
-    href="https://codepen.io/FreeCodeCamp/"
+    href="https://codepen.io/lilboiblu22/pens/"
     class="btn btn-show-all"
     target="_blank"
     >Show all<i class="fas fa-chevron-right"></i
@@ -167,28 +119,30 @@
 
 <section id="contact" class="contact-section">
   <div class="contact-section-header">
-    <h2>Let's work together...</h2>
-    <p>How do you take your coffee?</p>
+    <h2>Let's start something!</h2>
+    <p>I specialize in HTML and CSS architecture. I'm fairly new but I am open to working with others to gain experience.<br />
+        Feel free to contact me!
+    </p>
   </div>
   <div class="contact-links">
     <a
-      href="https://facebook.com/freecodecamp"
+      href="https://www.linkedin.com/in/enrique-jimenez-5a2079208/"
       target="_blank"
       class="btn contact-details"
-      ><i class="fab fa-facebook-square"></i> Facebook</a
+      ><i class="fab fa-linkedin"></i> LinkedIn</a
     >
     <a
       id="profile-link"
-      href="https://github.com/freecodecamp"
+      href="https://github.com/lilboiblu22"
       target="_blank"
       class="btn contact-details"
       ><i class="fab fa-github"></i> GitHub</a
     >
     <a
-      href="https://twitter.com/freecodecamp"
+      href="https://discordapp.com/users/2061/"
       target="_blank"
       class="btn contact-details"
-      ><i class="fab fa-twitter"></i> Twitter</a
+      ><i class="fab fa-discord"></i> Discord</a
     >
     <a href="mailto:example@example.com" class="btn contact-details"
       ><i class="fas fa-at"></i> Send a mail</a
@@ -205,8 +159,7 @@
 
 <footer>
   <p>
-    **This is just a fake portfolio. All the projects and contact details given
-    are not real.
+    This site will be updated every so often to reflect new projects!
   </p>
   <p>
     &copy; Created for
