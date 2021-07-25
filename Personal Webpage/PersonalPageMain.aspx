@@ -139,10 +139,10 @@
       ><i class="fab fa-github"></i> GitHub</a
     >
     <a
-      href="https://discordapp.com/users/2061/"
+      href="https://twitter.com/codingprospect"
       target="_blank"
       class="btn contact-details"
-      ><i class="fab fa-discord"></i> Discord</a
+      ><i class="fab fa-twitter"></i> Twitter</a
     >
     <a href="mailto:enriquejimenez468@gmail.com" class="btn contact-details"
       ><i class="fas fa-at"></i> Copy my email</a
